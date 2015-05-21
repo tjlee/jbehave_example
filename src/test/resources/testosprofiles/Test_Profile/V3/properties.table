@@ -1,0 +1,8 @@
+| name                 | value                                               |
+| boot-type            | pxe                                                 |
+| install-type         | preseed                                             |
+| os                   | Windows                                             |
+| architecture         | x32                                                 |
+| description          | Test Profile \n New line !@#$%^&*()_+ \n New line   |
+| kernel-boot-location | os-profiles/Test_Profile/V3/boot/vmlinuz            |
+| initrd-boot-location | os-profiles/Test_Profile/V3/boot/initrd             |

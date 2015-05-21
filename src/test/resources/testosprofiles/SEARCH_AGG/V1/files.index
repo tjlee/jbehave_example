@@ -1,0 +1,5 @@
+boot/initrd
+boot/preseed
+boot/pxeconfig
+boot/test
+boot/vmlinuz

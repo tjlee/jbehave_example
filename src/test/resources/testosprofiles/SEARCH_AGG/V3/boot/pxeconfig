@@ -1,0 +1,10 @@
+DISPLAY boot.txt
+
+PROMPT 1
+TIMEOUT 0
+
+DEFAULT install
+
+LABEL install
+    kernel {kernel-boot-location}
+    append vga=normal initrd={initrd-boot-location} url={preseed-config-url} --

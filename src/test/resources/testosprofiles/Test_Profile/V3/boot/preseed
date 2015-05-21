@@ -1,0 +1,17 @@
+; Properties passed to install-conf
+region={region}
+tz={TZ}
+; auto-generated properties:
+install-service-url={install-service-url}
+install-service-host={install-service-host}
+install-service-port={install-service-port}
+; OS Profile properties:
+os-profile-name={os-profile-name}
+os={os}
+architecture={architecture}
+description={description}
+kernel-boot-location={kernel-boot-location}
+initrd-boot-location={initrd-boot-location}
+; hw-profile:
+{hw-profile}
+;some more content

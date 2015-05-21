@@ -1,0 +1,9 @@
+| name                 | value                                  |
+| boot-type            | pxe                                    |
+| install-type         | preseed                                |
+| os                   | Ubuntu                                 |
+| architecture         | x64                                    |
+| description          | Search Agg1 OS Profile                 |
+| kernel-boot-location | os-profiles/SEARCH_AGG/V1/boot/vmlinuz |
+| initrd-boot-location | os-profiles/SEARCH_AGG/V1/boot/initrd  |
+| region               | new_region                             |

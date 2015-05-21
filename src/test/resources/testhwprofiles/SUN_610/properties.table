@@ -1,0 +1,5 @@
+| name         | value                       |
+| os           | Windows                     |
+| architecture | x64                         |
+| description  | SUN_610 profile description |
+| install-type | preseed                     |

@@ -1,0 +1,6 @@
+boot/pxeconfig
+boot/initrd
+boot/vmlinuz
+boot/preseed
+testfolder/file1
+testfolder/file2

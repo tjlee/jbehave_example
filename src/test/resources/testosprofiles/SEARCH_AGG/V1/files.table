@@ -1,0 +1,6 @@
+| path           | type           | template |
+| boot/pxeconfig | pxeconfig      | true     |
+| boot/initrd    | initrd         | false    |
+| boot/vmlinuz   | kernel         | false    |
+| boot/preseed   | preseed-config | true     |
+| boot/test      | test           | false    |
