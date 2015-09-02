@@ -1,2 +1,2 @@
 # jbehave_example
-jbehave example
+BDD concept. Java Jbehave example project
